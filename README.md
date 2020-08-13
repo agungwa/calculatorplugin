@@ -1,7 +1,7 @@
 # Welcome to calculator Plugin!
 
 ```
-Plugin Name: Subcribe
+Plugin Name: Calculator
 Description: Don't forget drink coffee
 Version: 0.0.1
 Author: Agung Widhiatmojo
